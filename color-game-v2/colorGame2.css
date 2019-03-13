@@ -1,0 +1,23 @@
+body {
+  background-color: rgb(20, 109, 65);
+  color: rgb(170, 156, 133);/*color of the text*/
+  text-align: center;
+}
+form fieldset{
+  background-color: rgb(43, 110, 22);
+  margin: 50px;
+}
+body h1 {
+  color: rgb(170, 156, 133);  
+}
+body button {
+  color: rgb(255, 136, 143);
+}
+#majors {
+  display: inline;/*make everything on one line*/
+  padding: 5%;/* padding is within the tag*/
+  margin: 5%;/*margin is outside of the tag*/
+}
+#WelcomeDisplay {
+  font-size: 200%;
+}
